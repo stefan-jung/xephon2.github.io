@@ -10,7 +10,7 @@ You can take a look at a [reveal.js](http://lab.hakim.se/reveal-js) based presen
 I develop and test the plugin on a Linux machine, but it should work on Mac OSX and Microsoft Windows as well. If you have any issues, or suggestions for improvements, please add a comment or raise an issue on [Github](https://github.com/xephon2/com.github.xephon2.revealjs).
 
 ## Requirements
-You need to have a DITA-OT 1.8.+ installed and the path variables set via the `startcmd.bat` or `startcmd.sh` command.
+You need to have Git and a DITA-OT 1.8.+ installed and the path variables set via the `startcmd.bat` or `startcmd.sh` command.
 
 ## Installation
 The plugin is hosted on Github. To install the plugin, you have to clone its repository and invoke the DITA-OT integrator.
@@ -18,13 +18,13 @@ The plugin is hosted on Github. To install the plugin, you have to clone its rep
 1. Open a terminal and move to the `plugins` directory of your DITA-OT.
 2. To clone the plugin repository, invoke the following command:
 
-   ```bash
+   ```
    git clone https://github.com/xephon2/com.github.xephon2.revealjs
    ```
 3. Move to the root directory of your DITA-OT.
 4. To integrate the plugin into the DITA-OT, call the integrator:
 
-   ```bash
+   ```
    ant -f integrator.xml
    ```
    
