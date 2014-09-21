@@ -3,7 +3,8 @@ title: Reveal.js Based DITA-OT Transformation
 layout: post
 ---
 
-Today I wont to share my first DITA-OT plugin with you. This plugin ships a new transformation scenario, called `reveal`, that transforms DITA maps into [reveal.js](http://lab.hakim.se/reveal-js) based web presentations. Currently, the functionality is very limited. Later, the transformation scenario will be able to generate two dimensional (nested) presentations. I'll implement this feature in an upcoming release.
+Today I want to share my first DITA-OT plugin with you. This plugin ships a new transformation scenario, called `reveal`, that transforms DITA maps into 
+[reveal.js](http://lab.hakim.se/reveal-js) based web presentations. Currently, the functionality is very limited. Later, the transformation scenario will be able to generate two dimensional (nested) presentations. I'll implement this feature in an upcoming release.
 
 You can take a look at a [reveal.js](http://lab.hakim.se/reveal-js) based presentation here: [lab.hakim.se/reveal-js](http://lab.hakim.se/reveal-js/)
 
