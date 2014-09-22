@@ -1,6 +1,7 @@
 ---
 title: Reveal.js Based DITA-OT Transformation
 layout: post
+tags: [DITA,Documentation]
 ---
 
 Today I want to share my first DITA-OT plugin with you. This plugin ships a new transformation scenario, called `reveal`, that transforms DITA maps into 
