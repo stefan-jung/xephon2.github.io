@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/stefaneike
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xephon2.github.io
+  * I am stefaneike (https://keybase.io/stefaneike) on keybase.
+  * I have a public key with fingerprint EF0E 5D96 EF04 933C 2E69  CD5D F2EE 959E 0AB7 E5D2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010172928ced0e6c4c2ec59b75bad7033b0bfd5fcfbce21ad6e9691dd72a5ceeb4900a",
+            "fingerprint": "ef0e5d96ef04933c2e69cd5df2ee959e0ab7e5d2",
+            "host": "keybase.io",
+            "key_id": "f2ee959e0ab7e5d2",
+            "kid": "010172928ced0e6c4c2ec59b75bad7033b0bfd5fcfbce21ad6e9691dd72a5ceeb4900a",
+            "uid": "eea1cd1a073c32b0c6f0d896e1e26e19",
+            "username": "stefaneike"
+        },
+        "service": {
+            "hostname": "xephon2.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473704884,
+    "expire_in": 157680000,
+    "prev": "4814f44bda67d57acfad21b36a0355bc921f731d142a9c04c30c4ed116191838",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1oTmEYfl8ztklkfhAbHUJs8zzn8z0vxaIIzUeEtvXu+bjP3tO7nfM673ln
+8xEpE5Lvr2KYj9J8TNFkS0KhRc0kv4TYsh+KIWnDc4Z/fnp+PHfP/VzXdd/X3b1v
+eEYoK/zpw+GGnJZ3T8Pt72lo9fPeWxsl6vI6KbpRSsBAgCoOKT+WsLkUlRBG2JBN
+OcKAI9CZymRgmkkNjRJuIEWhiFpcs5hFGciYcB1M3cScGzLRGABVTYSIVCBZtlMJ
+XtKzHV/IgoVA46YuomoqihDVTcY1bskApmYCItQQAFkQ424qYIjmKElBke2KnHjE
+Btr7B/4/950ekAMgmHFMkKEwRaaI6RbiEdE/BllcZgBMgeeQahDolA8WccBOgLS5
+QBL5GptBMNrAyx9MLSTjriMXVdp+PE1/20p6ru8yt0p8x30/mYoGdL8uGeDXA439
+UYpR2+FinIJRA17Kdh0pigWS+XYgjVVDMZAaiagFEtQmbQ9idoDQDD2CxAnqQI2Q
+jKkRrFqqSjnRDa4ZhFmEy5gqOkGKplFmytgyFMyxKhOTIZUpiKnAMdaxiSNKRArM
+rXNcKSpK+aQysG5XOsRPe8J5zs7w+MGhcFZoSOagYNFCOdkj/25f5u6h/aNbL85Q
+57in5oO34P2DTf07brozX5/IW5wYd6Dja1m1WfuwqSADZdflN6zoWdmdJ51fXP02
+hrtO3W9M940sq7p6obhZ+vzldGHuiQWXugqXr9k+9uOEcu1xT2P8XPrCCHQ98eJw
+W33JqLuHFratmnj7uBMqyr+3p7nn0PwpuR2zz96Tk+mj5yfdqGjP6vea1n3z85dM
+bJI/HCwfc+1OcfMebW/D1u8dOzpDU+ctHVYx/Y4Vzt2yc1nvDLz/58LWsrU/rlw+
+sCizpa8je3e60yrpfrbm2IZk/SwzVy69uP1kem7jsoxXxfGpiZef3d5PZ6v3bXuy
+5Exr6bRHpWRX7aySyfU9Ryre/AI=
+=LSTl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stefaneike
+
+==================================================================
+
