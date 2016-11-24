@@ -12,4 +12,3 @@ Thumbs.db
 .sass-cache/* 
 .jekyll-metadata 
 *.xpr 
-Gemfile.lock
